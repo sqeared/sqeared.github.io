@@ -1,0 +1,4 @@
+document.getElementById("buy-coffee-button").addEventListener("click", function() {
+    // Redirect to your personal website
+    window.open('https://www.orshikh.com', '_blank');
+});
